@@ -1,0 +1,40 @@
+img {
+	width: 150px;
+	height: 250px;
+}
+div {
+	border: 3px solid yellow;
+
+}
+.grey {
+	background: lightblue;
+	font-size: 20px;
+}
+.green {
+	background: lightgreen;
+	font-size: 20px;
+}
+.grey:hover {
+	background: violet;
+	font-size: 50px;
+}
+.green:hover {
+	background: violet;
+	font-size: 50px;
+}
+.white {
+	background: white;
+	font-size: 20px;
+}
+.black {
+	background: grey;
+	font-size: 20px;
+}
+.white:hover {
+	background: violet;
+	font-size: 50px;
+}
+.black:hover {
+	background: violet;
+	font-size: 50px;
+}
